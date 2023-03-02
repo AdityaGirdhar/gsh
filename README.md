@@ -2,7 +2,7 @@
 * Run `sudo make gsh` on a unix-based terminal (if using for the first time), followed by `make run` to run the custom shell.
 * The shell should automatically revert all changes made to system upon exiting. In case of faliure to do so, run `make clean` to forcefully remove all project files.
 
-## Assignment-1: Basic Linux/Unix Shell
+## Basic Linux/Unix Shell
 
 Linux (and other Unix like OSes), have “shells” or programs which present a command line interface to users to type commands in. In this assignment you need to use standard C libraries, including Linux system calls such as `fork()`, `exec()` family system calls and `wait()` family of system calls.
 
